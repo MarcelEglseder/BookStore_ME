@@ -19,6 +19,7 @@
     Passwort: <input type="password" name="password">
     <input type="submit" value="Einloggen"/>
 </form>
+    <a href="/registrieren">Regristrieren</a>
 
 </body>
 </html>
